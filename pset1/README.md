@@ -1,6 +1,6 @@
 # PSet-1
 
-Nome: Marcelo Moura Jimenez
+Nome: Gustavo Farias Borges Acha
 Professor: Abrantes Araújo Silva Filho
 Disciplina: Design e Desenvolvimento de Banco de Dados
-Turma: CC1M (2022)
+Turma: EO2 (2022)
